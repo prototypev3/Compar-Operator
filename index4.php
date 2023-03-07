@@ -133,7 +133,7 @@
                     <div class="card-content">
                         <a href="#!">
                             <h2> New york </h2>
-                            <p> New York est une ville composée de 5 arrondissements à l'embouchure du fleuve Hudson et de l'océan Atlantique.<br> En son centre se trouve Manhattan, un arrondissement densément peuplé faisant partie des principaux centres commerciaux, financiers et culturels du monde. </p>
+                            <p> New York est une ville composée de 5 arrondissements à l'embouchure du fleuve Hudson et de l'océan Atlantique.<br> En son centre se trouve Manhattan, un arrondissement faisant partie des principaux centres commerciaux, financiers et culturels du monde. </p>
                         </a>
                     </div>
                 </div>
