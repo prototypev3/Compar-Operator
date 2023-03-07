@@ -1,5 +1,5 @@
 <?php
-
+include '../partials/Autoload.php';
 require_once ('partials/connexion.php');
 
 $reviewManager = new ReviewManager($pdo);
