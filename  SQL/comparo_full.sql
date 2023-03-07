@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : localhost
--- Généré le : lun. 06 mars 2023 à 11:41
+-- Généré le : mar. 07 mars 2023 à 08:45
 -- Version du serveur : 10.4.27-MariaDB
 -- Version de PHP : 8.2.0
 
@@ -44,7 +44,7 @@ INSERT INTO `destination` (`id`, `location`, `price`, `tour_operator_id`) VALUES
 (3, 'Berlin', 300, 1),
 (4, 'Seoul', 1000, 3),
 (5, 'Bangkok', 200, 2),
-(6, 'Bonbay', 250, 1),
+(6, 'Bombay', 250, 1),
 (7, 'New York', 1000, 2),
 (8, 'Tel-Aviv', 400, 3),
 (9, 'Venise', 700, 2),
