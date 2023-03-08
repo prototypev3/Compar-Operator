@@ -1,7 +1,7 @@
 
 
 <?php
-require_once ('connexion.php');
+require_once ('Connexion.php');
 
 if (isset($_POST['pseudoAdmin']) &&  isset($_POST['password']))
 {
@@ -21,7 +21,7 @@ if (isset($_POST['pseudoAdmin']) &&  isset($_POST['password']))
         header('Location: /View/Admin.php');
     }else
     {
-        header('Location: /index.php');
+        header('Location: /indexD.html');
     }
 
 }

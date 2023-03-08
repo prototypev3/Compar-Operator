@@ -1,6 +1,6 @@
 <?php
 include '../partials/Autoload.php';
-require_once ('partials/connexion.php');
+require_once ('partials/Connexion.php');
 
 /* ADMIN */
 

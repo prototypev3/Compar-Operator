@@ -1,8 +1,15 @@
 <?php
-include '../partials/Autoload.php';
-require_once ('partials/Connexion.php');
+
+    include __DIR__.'/../Process/Autoload.php';
+
+    require_once __DIR__."/../Process/Connexion.php";
+
+
+
+    include __DIR__."/../View/Header.php";
 
 ?>
+
 
 <div class="container forms-admin">
     <div class="row d-flex justify-content-center">
@@ -13,7 +20,7 @@ require_once ('partials/Connexion.php');
                         <img src="/IMG/admin.png" border="0">
                         <h2 class="text-center">Connect to access </h2>
 
-                        <form id="register-form" role="form" autocomplete="off" class="form" method="post" action="/partials/sessionStart.php">
+                        <form id="register-form" role="form" autocomplete="off" class="form" method="post" action="/Process/sessionStart.php">
                             <div class="form-group">
                                 <div class="input-group">
                                     <span class="input-group-addon"><i class="glyphicon glyphicon-envelope color-blue"></i></span>
