@@ -3,11 +3,11 @@
 <?php
 require_once ('Connexion.php');
 
-if (isset($_POST['pseudoAdmin']) &&  isset($_POST['password']))
+if (isset($_POST['nom']) &&  isset($_POST['prenom']))
 {
     $admin = new Admin([
-        'password'=>$_POST['password'],
-        'admin'=>$_POST['pseudoAdmin']
+        'prenom'=>$_POST['prenom'],
+        'nom'=>$_POST['nom']
     ]);
     $adminManager = new AdminManager($pdo);
 
@@ -15,8 +15,8 @@ if (isset($_POST['pseudoAdmin']) &&  isset($_POST['password']))
 
 
     if ($admin->getId()) {
-        $_SESSION['admin']=$_POST['pseudoAdmin'];
-        $_SESSION['password']=$_POST['password'];
+        $_SESSION['nom']=$_POST['nom'];
+        $_SESSION['prenom']=$_POST['prenom'];
         
         header('Location: /View/Admin.php');
     }else

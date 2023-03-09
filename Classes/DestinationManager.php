@@ -12,13 +12,13 @@ class DestinationManager {
   public function add(Destination $destination, TourOperator $tour_operator)
   {
  
-    $q = $this->db->prepare('INSERT INTO destinations(location, price, id_tour_operator, img, description) VALUES(:location, :price, :id_tour_operator, :img, :description)');
+    $q = $this->db->prepare('INSERT INTO destinations(location, price, tour_operator_id, image, description) VALUES(:location, :price, :id_tour_operator, :img, :description)');
     
     $q->bindValue(':location', $destination->getLocation());
     $q->bindValue(':price', $destination->getPrice());
-    $q->bindValue(':id_tour_operator', $tour_operator->getId());
+    $q->bindValue(':tour_operator_id', $tour_operator->getId());
     $q->bindValue(':description', $destination->getDescription());
-    $q->bindValue(':img', $destination->getImg());
+    $q->bindValue(':image', $destination->getImage());
     
     $q->execute();
     

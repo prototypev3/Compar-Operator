@@ -314,6 +314,8 @@ hr {
 
 label {
   margin-bottom: 6px;
+  display: flex;
+  justify-content: center;
 }
 
 input {
