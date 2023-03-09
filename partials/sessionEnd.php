@@ -2,7 +2,7 @@
 session_start();
 session_destroy();
 
-header('Location: /indexD.html');
+header('Location: /indexD.php');
 
 
 ?>

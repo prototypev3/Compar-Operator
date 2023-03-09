@@ -244,6 +244,11 @@ header {
 /* FIN DESTINATIONS */
 
 /* OPÉRATEUR */
+.wrapper{
+  background-image: url('/images/mer.gif');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
 .opérateur {
   display: flex;

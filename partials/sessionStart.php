@@ -21,7 +21,7 @@ if (isset($_POST['nom']) &&  isset($_POST['prenom']))
         header('Location: /View/Admin.php');
     }else
     {
-        header('Location: /indexD.html');
+        header('Location: /indexD.php');
     }
 
 }
