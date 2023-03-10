@@ -73,7 +73,7 @@
 
                 <div class="col-12 col-md-6 col-lg-4 opérateur">
 
-                    <div class="card text-center" style="width: 50%;  ">
+                    <div class="card text-center" style="width: 50%; ">
 
                         <img src="https://www.salaunmag.com/uploads/salaun-mag-and-news.jpg" class="card-img-top"
                             alt="...">

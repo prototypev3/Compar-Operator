@@ -71,7 +71,7 @@
                     <div class="card-img" style="background-image:url('images/Saint\ Romain\ Lachalm.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                <a target="_blank" href=""> Voir les offres </a>
+                                
                             </div>
                         </div>
                     </div>
@@ -83,6 +83,13 @@
                                 département de la Haute-Loire en région Auvergne-Rhône-Alpes.<br> Ses habitants sont
                                 appelés les San-Roumis. </p>
                         </a>
+                        <div>
+                               <svg height="50" viewBox="0 0 512 512" width="50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="13.354" x2="468.463" y1="498.646" y2="43.537" data-name="New Gradient Swatch 1"><stop offset="0" stop-color="#003f8a"/><stop offset=".518" stop-color="#00d7df"/><stop offset="1" stop-color="#006df0"/></linearGradient><linearGradient id="c" x1="13.354" x2="468.463" xlink:href="#a" y1="498.646" y2="43.537"/><linearGradient id="e" x1="-70.646" x2="384.463" xlink:href="#a" y1="414.646" y2="-40.463"/><linearGradient id="f" x1="97.354" x2="552.463" xlink:href="#a" y1="582.646" y2="127.537"/><g><path d="m496 96h-480a8 8 0 0 0 -8 8v304a8 8 0 0 0 8 8h480a8 8 0 0 0 8-8v-304a8 8 0 0 0 -8-8zm-8 304h-464v-288h464z" fill="url(#a)"/><path d="m472 168a40.04 40.04 0 0 1 -40-40 8 8 0 0 0 -8-8h-336a8 8 0 0 0 -8 8 40.04 40.04 0 0 1 -40 40 8 8 0 0 0 -8 8v160a8 8 0 0 0 8 8 40.04 40.04 0 0 1 40 40 8 8 0 0 0 8 8h336a8 8 0 0 0 8-8 40.04 40.04 0 0 1 40-40 8 8 0 0 0 8-8v-160a8 8 0 0 0 -8-8zm-8 160.58a56.11 56.11 0 0 0 -47.42 47.42h-321.16a56.11 56.11 0 0 0 -47.42-47.42v-145.16a56.11 56.11 0 0 0 47.42-47.42h321.16a56.11 56.11 0 0 0 47.42 47.42z" fill="url(#a)"/><path d="m256 344a88 88 0 1 0 -88-88 88.1 88.1 0 0 0 88 88zm0-160a72 72 0 1 1 -72 72 72.081 72.081 0 0 1 72-72z" fill="url(#c)"/><path d="m240 272a8 8 0 0 0 0 16h8a8 8 0 0 0 16 0h8a8 8 0 0 0 8-8v-24a8 8 0 0 0 -8-8h-24v-8h24a8 8 0 0 0 0-16h-8a8 8 0 0 0 -16 0h-8a8 8 0 0 0 -8 8v24a8 8 0 0 0 8 8h24v8z" fill="url(#c)"/><path d="m88 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#e)"/><path d="m424 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#f)"/></g></svg>
+                               1 $
+                               <img src="https://play-lh.googleusercontent.com/0ZA4UQQIsUeqgU8KhGkrD_Te1PNk_GMYSnZU3tdtL-wesr2BWzchxkjgafyJ4NxAVg" width="50" height="50">
+
+
+                            </div>
 
                     </div>
                 </div>
@@ -91,7 +98,7 @@
                     <div class="card-img" style="background-image:url('images/Madrid.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                <a target="_blank" href=""> Voir les offres </a>
+                                
                             </div>
                         </div>
                     </div>
@@ -102,6 +109,12 @@
                             <p> Située au centre de l'Espagne, Madrid, sa capitale, est une ville dotée d'élégants
                                 boulevards et de vastes parcs très bien entretenus comme le Retiro.</p>
                         </a>
+                        <div>
+                               <svg height="60" viewBox="0 0 512 512" width="60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="13.354" x2="468.463" y1="498.646" y2="43.537" data-name="New Gradient Swatch 1"><stop offset="0" stop-color="#003f8a"/><stop offset=".518" stop-color="#00d7df"/><stop offset="1" stop-color="#006df0"/></linearGradient><linearGradient id="c" x1="13.354" x2="468.463" xlink:href="#a" y1="498.646" y2="43.537"/><linearGradient id="e" x1="-70.646" x2="384.463" xlink:href="#a" y1="414.646" y2="-40.463"/><linearGradient id="f" x1="97.354" x2="552.463" xlink:href="#a" y1="582.646" y2="127.537"/><g><path d="m496 96h-480a8 8 0 0 0 -8 8v304a8 8 0 0 0 8 8h480a8 8 0 0 0 8-8v-304a8 8 0 0 0 -8-8zm-8 304h-464v-288h464z" fill="url(#a)"/><path d="m472 168a40.04 40.04 0 0 1 -40-40 8 8 0 0 0 -8-8h-336a8 8 0 0 0 -8 8 40.04 40.04 0 0 1 -40 40 8 8 0 0 0 -8 8v160a8 8 0 0 0 8 8 40.04 40.04 0 0 1 40 40 8 8 0 0 0 8 8h336a8 8 0 0 0 8-8 40.04 40.04 0 0 1 40-40 8 8 0 0 0 8-8v-160a8 8 0 0 0 -8-8zm-8 160.58a56.11 56.11 0 0 0 -47.42 47.42h-321.16a56.11 56.11 0 0 0 -47.42-47.42v-145.16a56.11 56.11 0 0 0 47.42-47.42h321.16a56.11 56.11 0 0 0 47.42 47.42z" fill="url(#a)"/><path d="m256 344a88 88 0 1 0 -88-88 88.1 88.1 0 0 0 88 88zm0-160a72 72 0 1 1 -72 72 72.081 72.081 0 0 1 72-72z" fill="url(#c)"/><path d="m240 272a8 8 0 0 0 0 16h8a8 8 0 0 0 16 0h8a8 8 0 0 0 8-8v-24a8 8 0 0 0 -8-8h-24v-8h24a8 8 0 0 0 0-16h-8a8 8 0 0 0 -16 0h-8a8 8 0 0 0 -8 8v24a8 8 0 0 0 8 8h24v8z" fill="url(#c)"/><path d="m88 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#e)"/><path d="m424 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#f)"/></g></svg>
+                               600 $
+                               <img src="https://play-lh.googleusercontent.com/0ZA4UQQIsUeqgU8KhGkrD_Te1PNk_GMYSnZU3tdtL-wesr2BWzchxkjgafyJ4NxAVg" width="50" height="50">
+
+                            </div>
                     </div>
                 </div>
 
@@ -109,7 +122,7 @@
                     <div class="card-img" style="background-image:url('images/Berlin.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                <a target="_blank" href=""> Voir les offres </a>
+                                
                             </div>
                         </div>
                     </div>
@@ -121,6 +134,14 @@
                                 les pans restants du mur de Berlin,<br> sur lesquels des graffitis ont été peints,
                                 témoignent de son passé tumultueux.
                             </p>
+                            <div>
+                               <svg height="60" viewBox="0 0 512 512" width="60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="13.354" x2="468.463" y1="498.646" y2="43.537" data-name="New Gradient Swatch 1"><stop offset="0" stop-color="#003f8a"/><stop offset=".518" stop-color="#00d7df"/><stop offset="1" stop-color="#006df0"/></linearGradient><linearGradient id="c" x1="13.354" x2="468.463" xlink:href="#a" y1="498.646" y2="43.537"/><linearGradient id="e" x1="-70.646" x2="384.463" xlink:href="#a" y1="414.646" y2="-40.463"/><linearGradient id="f" x1="97.354" x2="552.463" xlink:href="#a" y1="582.646" y2="127.537"/><g><path d="m496 96h-480a8 8 0 0 0 -8 8v304a8 8 0 0 0 8 8h480a8 8 0 0 0 8-8v-304a8 8 0 0 0 -8-8zm-8 304h-464v-288h464z" fill="url(#a)"/><path d="m472 168a40.04 40.04 0 0 1 -40-40 8 8 0 0 0 -8-8h-336a8 8 0 0 0 -8 8 40.04 40.04 0 0 1 -40 40 8 8 0 0 0 -8 8v160a8 8 0 0 0 8 8 40.04 40.04 0 0 1 40 40 8 8 0 0 0 8 8h336a8 8 0 0 0 8-8 40.04 40.04 0 0 1 40-40 8 8 0 0 0 8-8v-160a8 8 0 0 0 -8-8zm-8 160.58a56.11 56.11 0 0 0 -47.42 47.42h-321.16a56.11 56.11 0 0 0 -47.42-47.42v-145.16a56.11 56.11 0 0 0 47.42-47.42h321.16a56.11 56.11 0 0 0 47.42 47.42z" fill="url(#a)"/><path d="m256 344a88 88 0 1 0 -88-88 88.1 88.1 0 0 0 88 88zm0-160a72 72 0 1 1 -72 72 72.081 72.081 0 0 1 72-72z" fill="url(#c)"/><path d="m240 272a8 8 0 0 0 0 16h8a8 8 0 0 0 16 0h8a8 8 0 0 0 8-8v-24a8 8 0 0 0 -8-8h-24v-8h24a8 8 0 0 0 0-16h-8a8 8 0 0 0 -16 0h-8a8 8 0 0 0 -8 8v24a8 8 0 0 0 8 8h24v8z" fill="url(#c)"/><path d="m88 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#e)"/><path d="m424 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#f)"/></g></svg>
+                               300 $
+                               <img src="https://www.salaunmag.com/uploads/salaun-mag-and-news.jpg" width="40" height="40">
+
+
+                            </div>
+                            
                         </a>
                     </div>
                 </div>
@@ -128,9 +149,7 @@
                 <div class="card">
                     <div class="card-img" style="background-image:url('images/Seoul.jpg');">
                         <div class="overlay">
-                            <div class="overlay-content">
-                                <a target="_blank" href=""> Voir les offres </a>
-                            </div>
+                            
                         </div>
                     </div>
 
@@ -140,6 +159,13 @@
                             <p> Capitale de la Corée du Sud, Séoul est une immense métropole où les gratte-ciel
                                 modernes,<br> les métros high-tech et la culture pop côtoient les temples bouddhistes,
                                 les palais et les marchés de rue. </p>
+                               <div>
+                               <svg height="60" viewBox="0 0 512 512" width="60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="13.354" x2="468.463" y1="498.646" y2="43.537" data-name="New Gradient Swatch 1"><stop offset="0" stop-color="#003f8a"/><stop offset=".518" stop-color="#00d7df"/><stop offset="1" stop-color="#006df0"/></linearGradient><linearGradient id="c" x1="13.354" x2="468.463" xlink:href="#a" y1="498.646" y2="43.537"/><linearGradient id="e" x1="-70.646" x2="384.463" xlink:href="#a" y1="414.646" y2="-40.463"/><linearGradient id="f" x1="97.354" x2="552.463" xlink:href="#a" y1="582.646" y2="127.537"/><g><path d="m496 96h-480a8 8 0 0 0 -8 8v304a8 8 0 0 0 8 8h480a8 8 0 0 0 8-8v-304a8 8 0 0 0 -8-8zm-8 304h-464v-288h464z" fill="url(#a)"/><path d="m472 168a40.04 40.04 0 0 1 -40-40 8 8 0 0 0 -8-8h-336a8 8 0 0 0 -8 8 40.04 40.04 0 0 1 -40 40 8 8 0 0 0 -8 8v160a8 8 0 0 0 8 8 40.04 40.04 0 0 1 40 40 8 8 0 0 0 8 8h336a8 8 0 0 0 8-8 40.04 40.04 0 0 1 40-40 8 8 0 0 0 8-8v-160a8 8 0 0 0 -8-8zm-8 160.58a56.11 56.11 0 0 0 -47.42 47.42h-321.16a56.11 56.11 0 0 0 -47.42-47.42v-145.16a56.11 56.11 0 0 0 47.42-47.42h321.16a56.11 56.11 0 0 0 47.42 47.42z" fill="url(#a)"/><path d="m256 344a88 88 0 1 0 -88-88 88.1 88.1 0 0 0 88 88zm0-160a72 72 0 1 1 -72 72 72.081 72.081 0 0 1 72-72z" fill="url(#c)"/><path d="m240 272a8 8 0 0 0 0 16h8a8 8 0 0 0 16 0h8a8 8 0 0 0 8-8v-24a8 8 0 0 0 -8-8h-24v-8h24a8 8 0 0 0 0-16h-8a8 8 0 0 0 -16 0h-8a8 8 0 0 0 -8 8v24a8 8 0 0 0 8 8h24v8z" fill="url(#c)"/><path d="m88 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#e)"/><path d="m424 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#f)"/></g></svg>
+                               1000 $
+                               <img src="https://carriere.mariettondeveloppement.fr/wp-content/uploads/2021/10/logo_heliades.png" width="50" height="50">
+
+                            </div>
+
                         </a>
                     </div>
                 </div>
@@ -148,7 +174,7 @@
                     <div class="card-img" style="background-image:url('images/Bangkok.jpg')">
                         <div class="overlay">
                             <div class="overlay-content">
-                                <a target="_blank" href=""> Voir les offres </a>
+                                
                             </div>
                         </div>
                     </div>
@@ -159,6 +185,12 @@
                             <p>Bangkok, la capitale de la Thaïlande, est une grande ville connue <br>pour ses
                                 sanctuaires richement décorés et ses rues animées. </p>
                         </a>
+                        <div>
+                               <svg height="60" viewBox="0 0 512 512" width="60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="13.354" x2="468.463" y1="498.646" y2="43.537" data-name="New Gradient Swatch 1"><stop offset="0" stop-color="#003f8a"/><stop offset=".518" stop-color="#00d7df"/><stop offset="1" stop-color="#006df0"/></linearGradient><linearGradient id="c" x1="13.354" x2="468.463" xlink:href="#a" y1="498.646" y2="43.537"/><linearGradient id="e" x1="-70.646" x2="384.463" xlink:href="#a" y1="414.646" y2="-40.463"/><linearGradient id="f" x1="97.354" x2="552.463" xlink:href="#a" y1="582.646" y2="127.537"/><g><path d="m496 96h-480a8 8 0 0 0 -8 8v304a8 8 0 0 0 8 8h480a8 8 0 0 0 8-8v-304a8 8 0 0 0 -8-8zm-8 304h-464v-288h464z" fill="url(#a)"/><path d="m472 168a40.04 40.04 0 0 1 -40-40 8 8 0 0 0 -8-8h-336a8 8 0 0 0 -8 8 40.04 40.04 0 0 1 -40 40 8 8 0 0 0 -8 8v160a8 8 0 0 0 8 8 40.04 40.04 0 0 1 40 40 8 8 0 0 0 8 8h336a8 8 0 0 0 8-8 40.04 40.04 0 0 1 40-40 8 8 0 0 0 8-8v-160a8 8 0 0 0 -8-8zm-8 160.58a56.11 56.11 0 0 0 -47.42 47.42h-321.16a56.11 56.11 0 0 0 -47.42-47.42v-145.16a56.11 56.11 0 0 0 47.42-47.42h321.16a56.11 56.11 0 0 0 47.42 47.42z" fill="url(#a)"/><path d="m256 344a88 88 0 1 0 -88-88 88.1 88.1 0 0 0 88 88zm0-160a72 72 0 1 1 -72 72 72.081 72.081 0 0 1 72-72z" fill="url(#c)"/><path d="m240 272a8 8 0 0 0 0 16h8a8 8 0 0 0 16 0h8a8 8 0 0 0 8-8v-24a8 8 0 0 0 -8-8h-24v-8h24a8 8 0 0 0 0-16h-8a8 8 0 0 0 -16 0h-8a8 8 0 0 0 -8 8v24a8 8 0 0 0 8 8h24v8z" fill="url(#c)"/><path d="m88 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#e)"/><path d="m424 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#f)"/></g></svg>
+                               200 $
+                               <img src="https://play-lh.googleusercontent.com/0ZA4UQQIsUeqgU8KhGkrD_Te1PNk_GMYSnZU3tdtL-wesr2BWzchxkjgafyJ4NxAVg" width="50" height="50">
+    
+                            </div>
                     </div>
                 </div>
 
@@ -166,7 +198,7 @@
                     <div class="card-img" style="background-image:url('images/Bombay.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                <a target="_blank" href=""> Voir les offres </a>
+                                
                             </div>
                         </div>
                     </div>
@@ -177,6 +209,13 @@
                             <p> Mumbai (anciennement Bombay) est une ville densément peuplée qui se trouve sur la côte
                                 ouest de l'Inde.<br> Ce centre financier est la plus grande ville du pays. </p>
                         </a>
+                        <div>
+                               <svg height="60" viewBox="0 0 512 512" width="60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="13.354" x2="468.463" y1="498.646" y2="43.537" data-name="New Gradient Swatch 1"><stop offset="0" stop-color="#003f8a"/><stop offset=".518" stop-color="#00d7df"/><stop offset="1" stop-color="#006df0"/></linearGradient><linearGradient id="c" x1="13.354" x2="468.463" xlink:href="#a" y1="498.646" y2="43.537"/><linearGradient id="e" x1="-70.646" x2="384.463" xlink:href="#a" y1="414.646" y2="-40.463"/><linearGradient id="f" x1="97.354" x2="552.463" xlink:href="#a" y1="582.646" y2="127.537"/><g><path d="m496 96h-480a8 8 0 0 0 -8 8v304a8 8 0 0 0 8 8h480a8 8 0 0 0 8-8v-304a8 8 0 0 0 -8-8zm-8 304h-464v-288h464z" fill="url(#a)"/><path d="m472 168a40.04 40.04 0 0 1 -40-40 8 8 0 0 0 -8-8h-336a8 8 0 0 0 -8 8 40.04 40.04 0 0 1 -40 40 8 8 0 0 0 -8 8v160a8 8 0 0 0 8 8 40.04 40.04 0 0 1 40 40 8 8 0 0 0 8 8h336a8 8 0 0 0 8-8 40.04 40.04 0 0 1 40-40 8 8 0 0 0 8-8v-160a8 8 0 0 0 -8-8zm-8 160.58a56.11 56.11 0 0 0 -47.42 47.42h-321.16a56.11 56.11 0 0 0 -47.42-47.42v-145.16a56.11 56.11 0 0 0 47.42-47.42h321.16a56.11 56.11 0 0 0 47.42 47.42z" fill="url(#a)"/><path d="m256 344a88 88 0 1 0 -88-88 88.1 88.1 0 0 0 88 88zm0-160a72 72 0 1 1 -72 72 72.081 72.081 0 0 1 72-72z" fill="url(#c)"/><path d="m240 272a8 8 0 0 0 0 16h8a8 8 0 0 0 16 0h8a8 8 0 0 0 8-8v-24a8 8 0 0 0 -8-8h-24v-8h24a8 8 0 0 0 0-16h-8a8 8 0 0 0 -16 0h-8a8 8 0 0 0 -8 8v24a8 8 0 0 0 8 8h24v8z" fill="url(#c)"/><path d="m88 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#e)"/><path d="m424 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#f)"/></g></svg>
+                               250 $
+                               <img src="https://www.salaunmag.com/uploads/salaun-mag-and-news.jpg" width="40" height="40">
+
+
+                            </div>
                     </div>
                 </div>
 
@@ -185,7 +224,7 @@
                     <div class="card-img" style="background-image:url('images/New-York.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                <a target="_blank" href=""> Voir les offres </a>
+                                
                             </div>
                         </div>
                     </div>
@@ -198,6 +237,12 @@
                                 densément peuplé faisant partie des principaux centres commerciaux, financiers et
                                 culturels du monde. </p>
                         </a>
+                        <div>
+                               <svg height="60" viewBox="0 0 512 512" width="60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="13.354" x2="468.463" y1="498.646" y2="43.537" data-name="New Gradient Swatch 1"><stop offset="0" stop-color="#003f8a"/><stop offset=".518" stop-color="#00d7df"/><stop offset="1" stop-color="#006df0"/></linearGradient><linearGradient id="c" x1="13.354" x2="468.463" xlink:href="#a" y1="498.646" y2="43.537"/><linearGradient id="e" x1="-70.646" x2="384.463" xlink:href="#a" y1="414.646" y2="-40.463"/><linearGradient id="f" x1="97.354" x2="552.463" xlink:href="#a" y1="582.646" y2="127.537"/><g><path d="m496 96h-480a8 8 0 0 0 -8 8v304a8 8 0 0 0 8 8h480a8 8 0 0 0 8-8v-304a8 8 0 0 0 -8-8zm-8 304h-464v-288h464z" fill="url(#a)"/><path d="m472 168a40.04 40.04 0 0 1 -40-40 8 8 0 0 0 -8-8h-336a8 8 0 0 0 -8 8 40.04 40.04 0 0 1 -40 40 8 8 0 0 0 -8 8v160a8 8 0 0 0 8 8 40.04 40.04 0 0 1 40 40 8 8 0 0 0 8 8h336a8 8 0 0 0 8-8 40.04 40.04 0 0 1 40-40 8 8 0 0 0 8-8v-160a8 8 0 0 0 -8-8zm-8 160.58a56.11 56.11 0 0 0 -47.42 47.42h-321.16a56.11 56.11 0 0 0 -47.42-47.42v-145.16a56.11 56.11 0 0 0 47.42-47.42h321.16a56.11 56.11 0 0 0 47.42 47.42z" fill="url(#a)"/><path d="m256 344a88 88 0 1 0 -88-88 88.1 88.1 0 0 0 88 88zm0-160a72 72 0 1 1 -72 72 72.081 72.081 0 0 1 72-72z" fill="url(#c)"/><path d="m240 272a8 8 0 0 0 0 16h8a8 8 0 0 0 16 0h8a8 8 0 0 0 8-8v-24a8 8 0 0 0 -8-8h-24v-8h24a8 8 0 0 0 0-16h-8a8 8 0 0 0 -16 0h-8a8 8 0 0 0 -8 8v24a8 8 0 0 0 8 8h24v8z" fill="url(#c)"/><path d="m88 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#e)"/><path d="m424 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#f)"/></g></svg>
+                               1000 $
+                               <img src="https://play-lh.googleusercontent.com/0ZA4UQQIsUeqgU8KhGkrD_Te1PNk_GMYSnZU3tdtL-wesr2BWzchxkjgafyJ4NxAVg" width="50" height="50">
+
+                            </div>
                     </div>
                 </div>
 
@@ -206,7 +251,7 @@
                     <div class="card-img" style="background-image:url('images/Tel-Aviv.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                <a target="_blank" href=""> Voir les offres </a>
+                                
                             </div>
                         </div>
                     </div>
@@ -218,6 +263,12 @@
                                 ses sobres immeubles Bauhaus datant des années 1930, dont des milliers sont regroupés
                                 dans l'ensemble architectural appelé Ville Blanche. </p>
                         </a>
+                        <div>
+                               <svg height="60" viewBox="0 0 512 512" width="60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="13.354" x2="468.463" y1="498.646" y2="43.537" data-name="New Gradient Swatch 1"><stop offset="0" stop-color="#003f8a"/><stop offset=".518" stop-color="#00d7df"/><stop offset="1" stop-color="#006df0"/></linearGradient><linearGradient id="c" x1="13.354" x2="468.463" xlink:href="#a" y1="498.646" y2="43.537"/><linearGradient id="e" x1="-70.646" x2="384.463" xlink:href="#a" y1="414.646" y2="-40.463"/><linearGradient id="f" x1="97.354" x2="552.463" xlink:href="#a" y1="582.646" y2="127.537"/><g><path d="m496 96h-480a8 8 0 0 0 -8 8v304a8 8 0 0 0 8 8h480a8 8 0 0 0 8-8v-304a8 8 0 0 0 -8-8zm-8 304h-464v-288h464z" fill="url(#a)"/><path d="m472 168a40.04 40.04 0 0 1 -40-40 8 8 0 0 0 -8-8h-336a8 8 0 0 0 -8 8 40.04 40.04 0 0 1 -40 40 8 8 0 0 0 -8 8v160a8 8 0 0 0 8 8 40.04 40.04 0 0 1 40 40 8 8 0 0 0 8 8h336a8 8 0 0 0 8-8 40.04 40.04 0 0 1 40-40 8 8 0 0 0 8-8v-160a8 8 0 0 0 -8-8zm-8 160.58a56.11 56.11 0 0 0 -47.42 47.42h-321.16a56.11 56.11 0 0 0 -47.42-47.42v-145.16a56.11 56.11 0 0 0 47.42-47.42h321.16a56.11 56.11 0 0 0 47.42 47.42z" fill="url(#a)"/><path d="m256 344a88 88 0 1 0 -88-88 88.1 88.1 0 0 0 88 88zm0-160a72 72 0 1 1 -72 72 72.081 72.081 0 0 1 72-72z" fill="url(#c)"/><path d="m240 272a8 8 0 0 0 0 16h8a8 8 0 0 0 16 0h8a8 8 0 0 0 8-8v-24a8 8 0 0 0 -8-8h-24v-8h24a8 8 0 0 0 0-16h-8a8 8 0 0 0 -16 0h-8a8 8 0 0 0 -8 8v24a8 8 0 0 0 8 8h24v8z" fill="url(#c)"/><path d="m88 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#e)"/><path d="m424 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#f)"/></g></svg>
+                               400 $
+                               <img src="https://carriere.mariettondeveloppement.fr/wp-content/uploads/2021/10/logo_heliades.png" width="50" height="50">
+
+                            </div>
                     </div>
                 </div>
 
@@ -226,7 +277,7 @@
                     <div class="card-img" style="background-image:url('images/Venise.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                <a target="_blank" href=""> Voir les offres </a>
+                                
                             </div>
                         </div>
                     </div>
@@ -239,6 +290,12 @@
                                 uniquement des canaux, dont le Grand Canal, bordé de palais gothiques et Renaissance.
                             </p>
                         </a>
+                        <div>
+                               <svg height="60" viewBox="0 0 512 512" width="60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="13.354" x2="468.463" y1="498.646" y2="43.537" data-name="New Gradient Swatch 1"><stop offset="0" stop-color="#003f8a"/><stop offset=".518" stop-color="#00d7df"/><stop offset="1" stop-color="#006df0"/></linearGradient><linearGradient id="c" x1="13.354" x2="468.463" xlink:href="#a" y1="498.646" y2="43.537"/><linearGradient id="e" x1="-70.646" x2="384.463" xlink:href="#a" y1="414.646" y2="-40.463"/><linearGradient id="f" x1="97.354" x2="552.463" xlink:href="#a" y1="582.646" y2="127.537"/><g><path d="m496 96h-480a8 8 0 0 0 -8 8v304a8 8 0 0 0 8 8h480a8 8 0 0 0 8-8v-304a8 8 0 0 0 -8-8zm-8 304h-464v-288h464z" fill="url(#a)"/><path d="m472 168a40.04 40.04 0 0 1 -40-40 8 8 0 0 0 -8-8h-336a8 8 0 0 0 -8 8 40.04 40.04 0 0 1 -40 40 8 8 0 0 0 -8 8v160a8 8 0 0 0 8 8 40.04 40.04 0 0 1 40 40 8 8 0 0 0 8 8h336a8 8 0 0 0 8-8 40.04 40.04 0 0 1 40-40 8 8 0 0 0 8-8v-160a8 8 0 0 0 -8-8zm-8 160.58a56.11 56.11 0 0 0 -47.42 47.42h-321.16a56.11 56.11 0 0 0 -47.42-47.42v-145.16a56.11 56.11 0 0 0 47.42-47.42h321.16a56.11 56.11 0 0 0 47.42 47.42z" fill="url(#a)"/><path d="m256 344a88 88 0 1 0 -88-88 88.1 88.1 0 0 0 88 88zm0-160a72 72 0 1 1 -72 72 72.081 72.081 0 0 1 72-72z" fill="url(#c)"/><path d="m240 272a8 8 0 0 0 0 16h8a8 8 0 0 0 16 0h8a8 8 0 0 0 8-8v-24a8 8 0 0 0 -8-8h-24v-8h24a8 8 0 0 0 0-16h-8a8 8 0 0 0 -16 0h-8a8 8 0 0 0 -8 8v24a8 8 0 0 0 8 8h24v8z" fill="url(#c)"/><path d="m88 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#e)"/><path d="m424 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#f)"/></g></svg>
+                             700 $
+                             <img src="https://play-lh.googleusercontent.com/0ZA4UQQIsUeqgU8KhGkrD_Te1PNk_GMYSnZU3tdtL-wesr2BWzchxkjgafyJ4NxAVg" width="50" height="50">
+
+                            </div>
                     </div>
                 </div>
 
@@ -246,7 +303,7 @@
                     <div class="card-img" style="background-image:url('images/Tokyo.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                <a target="_blank" href=""> Voir les offres </a>
+                                
                             </div>
                         </div>
                     </div>
@@ -257,6 +314,12 @@
                             <p> Capitale animée du Japon, Tokyo associe les styles ultramodernes et traditionnels,<br>
                                 dans un mélange de gratte-ciel aux néons lumineux et de temples anciens. </p>
                         </a>
+                        <div>
+                               <svg height="60" viewBox="0 0 512 512" width="60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="13.354" x2="468.463" y1="498.646" y2="43.537" data-name="New Gradient Swatch 1"><stop offset="0" stop-color="#003f8a"/><stop offset=".518" stop-color="#00d7df"/><stop offset="1" stop-color="#006df0"/></linearGradient><linearGradient id="c" x1="13.354" x2="468.463" xlink:href="#a" y1="498.646" y2="43.537"/><linearGradient id="e" x1="-70.646" x2="384.463" xlink:href="#a" y1="414.646" y2="-40.463"/><linearGradient id="f" x1="97.354" x2="552.463" xlink:href="#a" y1="582.646" y2="127.537"/><g><path d="m496 96h-480a8 8 0 0 0 -8 8v304a8 8 0 0 0 8 8h480a8 8 0 0 0 8-8v-304a8 8 0 0 0 -8-8zm-8 304h-464v-288h464z" fill="url(#a)"/><path d="m472 168a40.04 40.04 0 0 1 -40-40 8 8 0 0 0 -8-8h-336a8 8 0 0 0 -8 8 40.04 40.04 0 0 1 -40 40 8 8 0 0 0 -8 8v160a8 8 0 0 0 8 8 40.04 40.04 0 0 1 40 40 8 8 0 0 0 8 8h336a8 8 0 0 0 8-8 40.04 40.04 0 0 1 40-40 8 8 0 0 0 8-8v-160a8 8 0 0 0 -8-8zm-8 160.58a56.11 56.11 0 0 0 -47.42 47.42h-321.16a56.11 56.11 0 0 0 -47.42-47.42v-145.16a56.11 56.11 0 0 0 47.42-47.42h321.16a56.11 56.11 0 0 0 47.42 47.42z" fill="url(#a)"/><path d="m256 344a88 88 0 1 0 -88-88 88.1 88.1 0 0 0 88 88zm0-160a72 72 0 1 1 -72 72 72.081 72.081 0 0 1 72-72z" fill="url(#c)"/><path d="m240 272a8 8 0 0 0 0 16h8a8 8 0 0 0 16 0h8a8 8 0 0 0 8-8v-24a8 8 0 0 0 -8-8h-24v-8h24a8 8 0 0 0 0-16h-8a8 8 0 0 0 -16 0h-8a8 8 0 0 0 -8 8v24a8 8 0 0 0 8 8h24v8z" fill="url(#c)"/><path d="m88 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#e)"/><path d="m424 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#f)"/></g></svg>
+                               1300 $
+                               <img src="https://carriere.mariettondeveloppement.fr/wp-content/uploads/2021/10/logo_heliades.png" width="50" height="50">
+
+                            </div>
                     </div>
                 </div>
 
@@ -264,7 +327,7 @@
                     <div class="card-img" style="background-image:url('images/Rio-de-Janeiro.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                <a target="_blank" href=""> Voir les offres </a>
+                                
                             </div>
                         </div>
                     </div>
@@ -277,6 +340,12 @@
                                 moderne, <br>
                                 principalement réalisée par Oscar Niemeyer. </p>
                         </a>
+                        <div>
+                               <svg height="60" viewBox="0 0 512 512" width="60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="13.354" x2="468.463" y1="498.646" y2="43.537" data-name="New Gradient Swatch 1"><stop offset="0" stop-color="#003f8a"/><stop offset=".518" stop-color="#00d7df"/><stop offset="1" stop-color="#006df0"/></linearGradient><linearGradient id="c" x1="13.354" x2="468.463" xlink:href="#a" y1="498.646" y2="43.537"/><linearGradient id="e" x1="-70.646" x2="384.463" xlink:href="#a" y1="414.646" y2="-40.463"/><linearGradient id="f" x1="97.354" x2="552.463" xlink:href="#a" y1="582.646" y2="127.537"/><g><path d="m496 96h-480a8 8 0 0 0 -8 8v304a8 8 0 0 0 8 8h480a8 8 0 0 0 8-8v-304a8 8 0 0 0 -8-8zm-8 304h-464v-288h464z" fill="url(#a)"/><path d="m472 168a40.04 40.04 0 0 1 -40-40 8 8 0 0 0 -8-8h-336a8 8 0 0 0 -8 8 40.04 40.04 0 0 1 -40 40 8 8 0 0 0 -8 8v160a8 8 0 0 0 8 8 40.04 40.04 0 0 1 40 40 8 8 0 0 0 8 8h336a8 8 0 0 0 8-8 40.04 40.04 0 0 1 40-40 8 8 0 0 0 8-8v-160a8 8 0 0 0 -8-8zm-8 160.58a56.11 56.11 0 0 0 -47.42 47.42h-321.16a56.11 56.11 0 0 0 -47.42-47.42v-145.16a56.11 56.11 0 0 0 47.42-47.42h321.16a56.11 56.11 0 0 0 47.42 47.42z" fill="url(#a)"/><path d="m256 344a88 88 0 1 0 -88-88 88.1 88.1 0 0 0 88 88zm0-160a72 72 0 1 1 -72 72 72.081 72.081 0 0 1 72-72z" fill="url(#c)"/><path d="m240 272a8 8 0 0 0 0 16h8a8 8 0 0 0 16 0h8a8 8 0 0 0 8-8v-24a8 8 0 0 0 -8-8h-24v-8h24a8 8 0 0 0 0-16h-8a8 8 0 0 0 -16 0h-8a8 8 0 0 0 -8 8v24a8 8 0 0 0 8 8h24v8z" fill="url(#c)"/><path d="m88 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#e)"/><path d="m424 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#f)"/></g></svg>
+                               1052 $
+                               <img src="https://carriere.mariettondeveloppement.fr/wp-content/uploads/2021/10/logo_heliades.png" width="50" height="50">
+
+                            </div>
                     </div>
                 </div>
 
@@ -284,7 +353,7 @@
                     <div class="card-img" style="background-image:url('images/Amsterdam.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                <a target="_blank" href=""> Voir les offres </a>
+                                
                             </div>
                         </div>
                     </div>
@@ -295,7 +364,12 @@
                             <p> Amsterdam, capitale des Pays-Bas, est connue pour son patrimoine artistique, <br>
                                 son système élaboré de canaux et ses étroites maisons à pignons, <br>
                                 héritage de l'âge d'or de la ville, le XVIIe siècle. </p>
-                        </a>
+                        </a> <div>
+                               <svg height="60" viewBox="0 0 512 512" width="60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="13.354" x2="468.463" y1="498.646" y2="43.537" data-name="New Gradient Swatch 1"><stop offset="0" stop-color="#003f8a"/><stop offset=".518" stop-color="#00d7df"/><stop offset="1" stop-color="#006df0"/></linearGradient><linearGradient id="c" x1="13.354" x2="468.463" xlink:href="#a" y1="498.646" y2="43.537"/><linearGradient id="e" x1="-70.646" x2="384.463" xlink:href="#a" y1="414.646" y2="-40.463"/><linearGradient id="f" x1="97.354" x2="552.463" xlink:href="#a" y1="582.646" y2="127.537"/><g><path d="m496 96h-480a8 8 0 0 0 -8 8v304a8 8 0 0 0 8 8h480a8 8 0 0 0 8-8v-304a8 8 0 0 0 -8-8zm-8 304h-464v-288h464z" fill="url(#a)"/><path d="m472 168a40.04 40.04 0 0 1 -40-40 8 8 0 0 0 -8-8h-336a8 8 0 0 0 -8 8 40.04 40.04 0 0 1 -40 40 8 8 0 0 0 -8 8v160a8 8 0 0 0 8 8 40.04 40.04 0 0 1 40 40 8 8 0 0 0 8 8h336a8 8 0 0 0 8-8 40.04 40.04 0 0 1 40-40 8 8 0 0 0 8-8v-160a8 8 0 0 0 -8-8zm-8 160.58a56.11 56.11 0 0 0 -47.42 47.42h-321.16a56.11 56.11 0 0 0 -47.42-47.42v-145.16a56.11 56.11 0 0 0 47.42-47.42h321.16a56.11 56.11 0 0 0 47.42 47.42z" fill="url(#a)"/><path d="m256 344a88 88 0 1 0 -88-88 88.1 88.1 0 0 0 88 88zm0-160a72 72 0 1 1 -72 72 72.081 72.081 0 0 1 72-72z" fill="url(#c)"/><path d="m240 272a8 8 0 0 0 0 16h8a8 8 0 0 0 16 0h8a8 8 0 0 0 8-8v-24a8 8 0 0 0 -8-8h-24v-8h24a8 8 0 0 0 0-16h-8a8 8 0 0 0 -16 0h-8a8 8 0 0 0 -8 8v24a8 8 0 0 0 8 8h24v8z" fill="url(#c)"/><path d="m88 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#e)"/><path d="m424 280a24 24 0 1 0 -24-24 24.027 24.027 0 0 0 24 24zm0-32a8 8 0 1 1 -8 8 8.009 8.009 0 0 1 8-8z" fill="url(#f)"/></g></svg>
+                               1000 $
+                               <img src="https://www.salaunmag.com/uploads/salaun-mag-and-news.jpg" width="50" height="50">
+
+                            </div>
                     </div>
                 </div>
 
