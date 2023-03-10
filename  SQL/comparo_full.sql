@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : localhost
--- Généré le : jeu. 09 mars 2023 à 14:01
+-- Généré le : ven. 10 mars 2023 à 09:18
 -- Version du serveur : 10.4.27-MariaDB
 -- Version de PHP : 8.2.0
 
@@ -34,6 +34,14 @@ CREATE TABLE `admin` (
   `motdepasse` varchar(255) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+--
+-- Déchargement des données de la table `admin`
+--
+
+INSERT INTO `admin` (`id`, `nom`, `prenom`, `motdepasse`) VALUES
+(1, 'beaugrand', 'yann', '1234'),
+(2, 'rios', 'brice', 'azerty224');
+
 -- --------------------------------------------------------
 
 --
@@ -63,7 +71,9 @@ INSERT INTO `destination` (`id`, `location`, `image`, `description`, `price`, `t
 (7, 'New York', '\'images/New-York.jpg\'', 'New York est une ville composée de 5 arrondissements à l\'embouchure du fleuve Hudson et de l\'océan Atlantique. En son centre se trouve Manhattan, un arrondissement faisant partie des principaux centres commerciaux, financiers et culturels du monde.', 1000, 2),
 (8, 'Tel-Aviv', '\'images/Tel-Aviv.jpg\'', 'Sur la côte méditerranéenne, Tel Aviv est une ville israélienne caractérisée par ses sobres immeubles Bauhaus datant des années 1930, dont des milliers sont regroupés dans l\'ensemble architectural appelé Ville Blanche.', 400, 3),
 (9, 'Venise', '\'images/Venise.jpg\'', 'Venise, capitale de la région de la Vénétie au nord de l\'Italie, occupe plus de 100 petites îles dans un lagon de la mer Adriatique. La ville ne comprend aucune route, uniquement des canaux, dont le Grand Canal, bordé de palais gothiques et Renaissance.', 700, 2),
-(10, 'Tokyo ', '\'images/Tokyo.jpg\'', 'Capitale animée du Japon, Tokyo associe les styles ultramodernes et traditionnels, dans un mélange de gratte-ciel aux néons lumineux et de temples anciens.', 1300, 1);
+(10, 'Tokyo ', '\'images/Tokyo.jpg\'', 'Capitale animée du Japon, Tokyo associe les styles ultramodernes et traditionnels, dans un mélange de gratte-ciel aux néons lumineux et de temples anciens.', 1300, 1),
+(11, 'Brasilia', '\'images/Rio-de-Janeiro.jpg\'', 'Brasília, inaugurée comme capitale du Brésil en 1960, est une ville à l\'urbanisme planifié qui se distingue par son architecture blanche et moderne,principalement réalisée par Oscar Niemeyer.', 1052, 3),
+(12, 'Amsterdam', '\'images/Amsterdam.jpg\'', ' Amsterdam, capitale des Pays-Bas, est connue pour son patrimoine artistique,son système élaboré de canaux et ses étroites maisons à pignons,héritage de l\'âge d\'or de la ville, le XVIIe siècle.', 1452, 1);
 
 -- --------------------------------------------------------
 
@@ -150,13 +160,13 @@ ALTER TABLE `tour_operator`
 -- AUTO_INCREMENT pour la table `admin`
 --
 ALTER TABLE `admin`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 
 --
 -- AUTO_INCREMENT pour la table `destination`
 --
 ALTER TABLE `destination`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
 
 --
 -- AUTO_INCREMENT pour la table `review`
