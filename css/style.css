@@ -58,7 +58,7 @@ header {
 
 .wrapper {
   position: relative;
-  background: url(/ocean-horizon.jpg) no-repeat center center fixed;
+  background: url(../images/mer.gif) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -244,11 +244,13 @@ header {
 /* FIN DESTINATIONS */
 
 /* OPÉRATEUR */
-.wrapper{
+/*.wrapper{
   background-image: url('/images/mer.gif');
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+*/
 
 .opérateur {
   display: flex;
@@ -342,4 +344,3 @@ input[type="submit"] {
 }
 
 /* FIN ADMIN */
-

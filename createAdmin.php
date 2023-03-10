@@ -1,6 +1,6 @@
 <?php
 
-include ('../partials/Connexion.php');
+include ('partials/Connexion.php');
 
 
 
@@ -9,17 +9,19 @@ $nom = $_POST['nom'];
 $prenom = $_POST['prenom'];
 $motdepasse = $_POST['motdepasse'];
 
+echo $nom . "<br>";
+echo $prenom . "<br>";
+echo $motdepasse . "<br>";
+
 
 
 // Requête SQL pour insérer les données de l'administrateur dans la table 'admin'
-$sql = "INSERT INTO admin (nom, prenom, motdepasse) VALUES ('$nom', '$prenom', '$motdepasse')";
+$sql = "INSERT INTO admin (nom, prenom, motdepasse) VALUES (?, ?, ?)";
+$stmt = $pdo->prepare($sql);
 
 // Exécution de la requête SQL
-$sql->execute([
-    'nom' =>$_POST['nom'],
-    'prenom' =>$_POST['prenom'],
-    'motdepasse' =>$_POST['motdepasse']
+$stmt->execute([$nom, $prenom, $motdepasse]);
 
-]);
-header("Location indexD.php");
+echo "Bonjour";
+header('Location: Administrateur.php');
 ?>

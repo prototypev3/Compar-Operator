@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/css/style.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <title> ComparOperator </title>
@@ -71,13 +71,13 @@
                     <div class="card-img" style="background-image:url('images/Saint\ Romain\ Lachalm.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                
+                            <a href="indexO.php"> Voir les opérateurs 
+                                </a>
                             </div>
                         </div>
                     </div>
 
                     <div class="card-content">
-                        <a href="#!">
                             <h2> Saint Romain Lachalm </h2>
                             <p> Saint-Romain-Lachalm est une commune française située à l'est du Velay, dans le
                                 département de la Haute-Loire en région Auvergne-Rhône-Alpes.<br> Ses habitants sont
@@ -117,7 +117,8 @@
                     <div class="card-img" style="background-image:url('images/Madrid.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                
+                            <a href="indexO.php"> Voir les opérateurs 
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -160,7 +161,8 @@
                     <div class="card-img" style="background-image:url('images/Berlin.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                
+                            <a href="indexO.php"> Voir les opérateurs 
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -204,7 +206,8 @@
                 <div class="card">
                     <div class="card-img" style="background-image:url('images/Seoul.jpg');">
                         <div class="overlay">
-                            
+                        <a href="indexO.php"> Voir les opérateurs 
+                          </a>
                         </div>
                     </div>
 
@@ -245,8 +248,10 @@
                 <div class="card">
                     <div class="card-img" style="background-image:url('images/Bangkok.jpg')">
                         <div class="overlay">
+                          
                             <div class="overlay-content">
-                                
+                            <a href="indexO.php"> Voir les opérateurs 
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -289,7 +294,8 @@
                     <div class="card-img" style="background-image:url('images/Bombay.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                
+                            <a href="indexO.php"> Voir les opérateurs 
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -332,7 +338,8 @@
                     <div class="card-img" style="background-image:url('images/New-York.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                
+                            <a href="indexO.php"> Voir les opérateurs 
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -376,7 +383,8 @@
                     <div class="card-img" style="background-image:url('images/Tel-Aviv.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                
+                            <a href="indexO.php"> Voir les opérateurs 
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -419,7 +427,8 @@
                     <div class="card-img" style="background-image:url('images/Venise.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                
+                            <a href="indexO.php"> Voir les opérateurs 
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -463,7 +472,8 @@
                     <div class="card-img" style="background-image:url('images/Tokyo.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                
+                            <a href="indexO.php"> Voir les opérateurs 
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -504,7 +514,8 @@
                     <div class="card-img" style="background-image:url('images/Rio-de-Janeiro.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                
+                            <a href="indexO.php"> Voir les opérateurs 
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -548,7 +559,8 @@
                     <div class="card-img" style="background-image:url('images/Amsterdam.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                                
+                            <a href="indexO.php"> Voir les opérateurs 
+                                </a>
                             </div>
                         </div>
                     </div>

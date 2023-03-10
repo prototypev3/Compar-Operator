@@ -1,3 +1,5 @@
+<!-- 
+    
 <?php
 include '../partials/Autoload.php';
 require_once ('partials/Connexion.php');
@@ -11,7 +13,7 @@ require_once ('partials/Connexion.php');
                 <div class="panel-body">
                     <div class="text-center">
                         <img src="/IMG/admin.png" border="0">
-                        <h2 class="text-center">Connect to access </h2>
+                        <h2 class="text-center"> Connect to access </h2>
 
                         <form id="register-form" role="form" autocomplete="off" class="form" method="post" action="/partials/sessionStart.php">
                             <div class="form-group">
