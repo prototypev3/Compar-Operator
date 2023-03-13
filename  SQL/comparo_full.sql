@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : localhost
--- Généré le : ven. 10 mars 2023 à 09:18
+-- Généré le : lun. 13 mars 2023 à 09:30
 -- Version du serveur : 10.4.27-MariaDB
 -- Version de PHP : 8.2.0
 
@@ -40,7 +40,11 @@ CREATE TABLE `admin` (
 
 INSERT INTO `admin` (`id`, `nom`, `prenom`, `motdepasse`) VALUES
 (1, 'beaugrand', 'yann', '1234'),
-(2, 'rios', 'brice', 'azerty224');
+(2, 'rios', 'brice', 'azerty224'),
+(3, 'Doe', 'Jhon', 'dodo'),
+(4, 'Farre', 'Mickaël', 'dodo'),
+(5, 'Farre', 'Mickaël', 'xxxxx'),
+(6, 'Rios', 'Brice', 'XEDKNJDCD');
 
 -- --------------------------------------------------------
 
@@ -160,7 +164,7 @@ ALTER TABLE `tour_operator`
 -- AUTO_INCREMENT pour la table `admin`
 --
 ALTER TABLE `admin`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 
 --
 -- AUTO_INCREMENT pour la table `destination`
