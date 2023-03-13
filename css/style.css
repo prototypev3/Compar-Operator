@@ -241,6 +241,11 @@ header {
   color: rgba(32, 41, 28, 0.8);
 }
 
+/* FORM */
+
+
+/* FORM */
+
 /* FIN DESTINATIONS */
 
 /* OPÉRATEUR */
@@ -275,6 +280,13 @@ header {
 /* ADMIN */
 
 .Admin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 80px;
+}
+
+.CreateDestinations {
   display: flex;
   align-items: center;
   justify-content: center;

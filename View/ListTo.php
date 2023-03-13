@@ -85,18 +85,18 @@
                     <!-- <h5>Write your comment...</h5> -->
                     <form action="indexD.php" method="post">
                     <div class="labels">
-                        <label> Nom</label>
-                        <input id="input-author" type="text" name="author" placeholder="Remi" required>
+                        <label>* Name</label>
+                        <input id="input-author" type="text" name="author" placeholder="Pierre" required>
                     </div>
                     <div class="labels">
-                        <label> Commentaire</label>
-                        <input id="input-message" type="textarea" name="commentaire" placeholder="Votre commentaire" required>
+                        <label>* Comment</label>
+                        <input id="input-message" type="textarea" name="comment" placeholder="Your comment" required>
                     </div>
                     <div class="labels">
                         <label> Note</label>
                         <input id="input-note" type="number" name="note" min="0" max="5" required>
                     </div>
-                    <button class="btn btn-dark btn-form-review" id='submit' type="button">Submit</button>
+                    <button class="btn btn-dark btn-form-review" id='submit' type="button"> Envoyer </button>
                     </form>
                 </div>
                 </div>
