@@ -71,7 +71,7 @@
                     <div class="card-img" style="background-image:url('images/Saint\ Romain\ Lachalm.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                            <a href="indexO.php"> Voir les opérateurs 
+                            <a href="indexO.php"> Réserver 
                                 </a>
                             </div>
                         </div>
@@ -117,7 +117,7 @@
                     <div class="card-img" style="background-image:url('images/Madrid.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                            <a href="indexO.php"> Voir les opérateurs 
+                            <a href="indexO.php"> Réserver 
                                 </a>
                             </div>
                         </div>
@@ -161,7 +161,7 @@
                     <div class="card-img" style="background-image:url('images/Berlin.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                            <a href="indexO.php"> Voir les opérateurs 
+                            <a href="indexO.php"> Réserver 
                                 </a>
                             </div>
                         </div>
@@ -206,7 +206,7 @@
                 <div class="card">
                     <div class="card-img" style="background-image:url('images/Seoul.jpg');">
                         <div class="overlay">
-                        <a href="indexO.php"> Voir les opérateurs 
+                        <a href="indexO.php"> Réserver 
                           </a>
                         </div>
                     </div>
@@ -250,7 +250,7 @@
                         <div class="overlay">
                           
                             <div class="overlay-content">
-                            <a href="indexO.php"> Voir les opérateurs 
+                            <a href="indexO.php"> Réserver 
                                 </a>
                             </div>
                         </div>
@@ -294,7 +294,7 @@
                     <div class="card-img" style="background-image:url('images/Bombay.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                            <a href="indexO.php"> Voir les opérateurs 
+                            <a href="indexO.php"> Réserver  
                                 </a>
                             </div>
                         </div>
@@ -338,7 +338,7 @@
                     <div class="card-img" style="background-image:url('images/New-York.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                            <a href="indexO.php"> Voir les opérateurs 
+                            <a href="indexO.php"> Réserver 
                                 </a>
                             </div>
                         </div>
@@ -346,7 +346,7 @@
 
                     <div class="card-content">
                         <a href="#!">
-                            <h2> New york </h2>
+                            <h2> New York </h2>
                             <p> New York est une ville composée de 5 arrondissements à l'embouchure du fleuve Hudson et
                                 de l'océan Atlantique.<br> En son centre se trouve Manhattan, un arrondissement
                                 densément peuplé faisant partie des principaux centres commerciaux, financiers et
@@ -383,7 +383,7 @@
                     <div class="card-img" style="background-image:url('images/Tel-Aviv.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                            <a href="indexO.php"> Voir les opérateurs 
+                            <a href="indexO.php"> Réserver 
                                 </a>
                             </div>
                         </div>
@@ -427,7 +427,7 @@
                     <div class="card-img" style="background-image:url('images/Venise.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                            <a href="indexO.php"> Voir les opérateurs 
+                            <a href="indexO.php"> Réserver 
                                 </a>
                             </div>
                         </div>
@@ -472,7 +472,7 @@
                     <div class="card-img" style="background-image:url('images/Tokyo.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                            <a href="indexO.php"> Voir les opérateurs 
+                            <a href="indexO.php"> Réserver 
                                 </a>
                             </div>
                         </div>
@@ -514,7 +514,7 @@
                     <div class="card-img" style="background-image:url('images/Rio-de-Janeiro.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                            <a href="indexO.php"> Voir les opérateurs 
+                            <a href="indexO.php"> Réserver 
                                 </a>
                             </div>
                         </div>
@@ -559,7 +559,7 @@
                     <div class="card-img" style="background-image:url('images/Amsterdam.jpg');">
                         <div class="overlay">
                             <div class="overlay-content">
-                            <a href="indexO.php"> Voir les opérateurs 
+                            <a href="indexO.php"> Réserver 
                                 </a>
                             </div>
                         </div>
@@ -600,7 +600,43 @@
 
             </div>
         </div>
-    </section>
+</section>
+
+<section class='CreateDestinations' id="CreateDestinations">
+
+<form action="createDestination.php" method="post">
+            <h4> </h4>
+            <hr>
+
+            <div class="name-field">
+                <div>
+                    <label> Nom </label>
+                    <input name="name" type="text">
+                </div>
+      
+            </div>
+
+            <label for="destination-select"> Choisir la destination : </label>
+
+<select name="destination" id="destination-select">
+    <option value=""> Choisissez votre destination : </option>
+    <option value="Saint-Romain-Lachalm"> Saint-Romain-Lachalm </option>
+    <option value="Madrid"> Madrid </option>
+    <option value="Berlin"> Berlin </option>
+    <option value="Séoul"> Séoul </option>
+    <option value="Bangkok"> Bangkok </option>
+    <option value="Bombay"> Bombay </option>
+    <option value="New York"> New York </option>
+    <option value="Tel Aviv"> Tel Aviv </option>
+    <option value="Venise"> Venise </option>
+    <option value="Tokyo"> Tokyo </option>
+    <option value="Brasília"> Brasília </option>
+    <option value="Amsterdam"> Amsterdam </option>
+</select>
+
+<input type="submit" value="Envoyer">
+           
+</form>
 
     <!-- FIN DESTINATION -->
 

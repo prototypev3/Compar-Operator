@@ -74,7 +74,7 @@
             <div class="modal-dialog modal-dialog-scrollable">
                 <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="staticBackdropLabel">Comments</h5>
+                    <h5 class="modal-title" id="staticBackdropLabel"> ...</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
@@ -86,17 +86,17 @@
                     <form action="" method="">
                     <div class="labels">
                         <label>* Name</label>
-                        <input id="input-author" type="text" name="author" placeholder="Pierre" required>
+                        <input id="input-author" type="text" name="author" placeholder="Luffy" required>
                     </div>
                     <div class="labels">
-                        <label>* Comment</label>
-                        <input id="input-message" type="textarea" name="comment" placeholder="Your comment" required>
+                        <label>* Commentaire </label>
+                        <input id="input-message" type="textarea" name="comment" placeholder="Votre commentaire" required>
                     </div>
                     <div class="labels">
                         <label>* Note</label>
                         <input id="input-note" type="number" name="note" min="0" max="5" required>
                     </div>
-                    <button class="btn btn-dark btn-form-review" id='submit' type="button">Submit</button>
+                    <button class="btn btn-dark btn-form-review" id='submit' type="button"> Envoyer </button>
                     </form>
                 </div>
                 </div>
