@@ -145,7 +145,33 @@
     </section>
 
     <!-- FIN OPERATEUR -->
+    <section class='CreateOperateur' id="CreateOperateur">
 
+<form action="createOperateur.php" method="post">
+            <h4> </h4>
+            <hr>
+
+            <div class="name-field">
+                <div>
+                    <label> Nom </label>
+                    <input name="name" type="text">
+                </div>
+      
+            </div>
+
+            <label for="operateur-select"> Choisir l'operateur : </label>
+
+<select name="operateur" id="operateur-select">
+    <option value=""> Choisissez votre operateur : </option>
+    <option value="Salaun Holidays"> Salaun Holidays </option>
+    <option value="Fram"> Fram </option>
+    <option value="Heliades"> Heliades </option>
+    
+</select>
+
+<input type="submit" value="Envoyer">
+           
+</form>
 
 </body>
 

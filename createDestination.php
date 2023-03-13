@@ -12,13 +12,13 @@ $destination = $_POST['destination'];
 echo $nom . "<br>";
 echo $destination . "<br>";
 
-// Requête SQL pour insérer les données de l'administrateur dans la table 'admin'
-$sql = "INSERT INTO admin (nom, destination) VALUES (?, ?, ?)";
+// Requête SQL pour insérer les données de l'administrateur dans la table 'ajout_destination'
+$sql = "INSERT INTO ajout_destination (nom, destination) VALUES (?, ?)";
 $stmt = $pdo->prepare($sql);
 
 // Exécution de la requête SQL
-$stmt->execute([$nom, $prenom, $motdepasse]);
+$stmt->execute([$nom, $destination]);
 
-echo "Bonjour";
-header('Location: Administrateur.php');
+
+header('Location: indexD.php');
 ?>

@@ -292,6 +292,12 @@ header {
   justify-content: center;
   padding-top: 80px;
 }
+.CreateOperateur {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 80px;
+}
 
 form {
   display: flex;
