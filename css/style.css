@@ -301,6 +301,8 @@ form {
   border-radius: 6px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   color: white;
+  width: 800px;
+  height: 300px;
 }
 
 h4 {

@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : localhost
--- Généré le : lun. 13 mars 2023 à 10:49
+-- Généré le : lun. 13 mars 2023 à 14:14
 -- Version du serveur : 10.4.27-MariaDB
 -- Version de PHP : 8.2.0
 
@@ -40,18 +40,21 @@ CREATE TABLE `admin` (
 
 INSERT INTO `admin` (`id`, `nom`, `prenom`, `motdepasse`) VALUES
 (1, 'beaugrand', 'yann', '1234'),
-(2, 'rios', 'brice', 'azerty224');
+(2, 'rios', 'brice', 'azerty224'),
+(3, 'Doe', 'Jhon', 'dodo'),
+(4, 'Farre', 'Mickaël', 'dodo'),
+(5, 'Farre', 'Mickaël', 'xxxxx'),
+(6, 'Rios', 'Brice', 'XEDKNJDCD');
 
 -- --------------------------------------------------------
 
 --
--- Structure de la table `comments`
+-- Structure de la table `ajout_destination`
 --
 
-CREATE TABLE `comments` (
-  `name` varchar(255) NOT NULL,
-  `commentaire` varchar(255) NOT NULL,
-  `note` int(5) NOT NULL
+CREATE TABLE `ajout_destination` (
+  `nom` varchar(255) NOT NULL,
+  `destination` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 -- --------------------------------------------------------
@@ -86,6 +89,30 @@ INSERT INTO `destination` (`id`, `location`, `image`, `description`, `price`, `t
 (10, 'Tokyo ', '\'images/Tokyo.jpg\'', 'Capitale animée du Japon, Tokyo associe les styles ultramodernes et traditionnels, dans un mélange de gratte-ciel aux néons lumineux et de temples anciens.', 1300, 1),
 (11, 'Brasilia', '\'images/Rio-de-Janeiro.jpg\'', 'Brasília, inaugurée comme capitale du Brésil en 1960, est une ville à l\'urbanisme planifié qui se distingue par son architecture blanche et moderne,principalement réalisée par Oscar Niemeyer.', 1052, 3),
 (12, 'Amsterdam', '\'images/Amsterdam.jpg\'', ' Amsterdam, capitale des Pays-Bas, est connue pour son patrimoine artistique,son système élaboré de canaux et ses étroites maisons à pignons,héritage de l\'âge d\'or de la ville, le XVIIe siècle.', 1452, 1);
+
+-- --------------------------------------------------------
+
+--
+-- Structure de la table `review`
+--
+
+CREATE TABLE `review` (
+  `id` int(11) NOT NULL,
+  `message` varchar(255) NOT NULL,
+  `author` varchar(255) NOT NULL,
+  `tour_operator_id` int(11) NOT NULL,
+  `note` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_general_ci;
+
+--
+-- Déchargement des données de la table `review`
+--
+
+INSERT INTO `review` (`id`, `message`, `author`, `tour_operator_id`, `note`) VALUES
+(1, 'Super voyage, prestation au top !!', 'Michel', 2, 4),
+(2, 'Tout est inclus dans le prix, c\'est cool, je recommande', 'Paul', 3, 3),
+(3, 'Un peu cher, mais ça vaut le coup', 'Paul', 2, 3),
+(4, 'arnaque!!!! a fuire!!!', 'René', 2, 2);
 
 -- --------------------------------------------------------
 
@@ -128,6 +155,13 @@ ALTER TABLE `destination`
   ADD KEY `destination_tour_operator` (`tour_operator_id`);
 
 --
+-- Index pour la table `review`
+--
+ALTER TABLE `review`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `review_tour_operator` (`tour_operator_id`);
+
+--
 -- Index pour la table `tour_operator`
 --
 ALTER TABLE `tour_operator`
@@ -141,13 +175,19 @@ ALTER TABLE `tour_operator`
 -- AUTO_INCREMENT pour la table `admin`
 --
 ALTER TABLE `admin`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
 
 --
 -- AUTO_INCREMENT pour la table `destination`
 --
 ALTER TABLE `destination`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
+
+--
+-- AUTO_INCREMENT pour la table `review`
+--
+ALTER TABLE `review`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 
 --
 -- AUTO_INCREMENT pour la table `tour_operator`
@@ -164,6 +204,12 @@ ALTER TABLE `tour_operator`
 --
 ALTER TABLE `destination`
   ADD CONSTRAINT `destination_tour_operator` FOREIGN KEY (`tour_operator_id`) REFERENCES `tour_operator` (`id`);
+
+--
+-- Contraintes pour la table `review`
+--
+ALTER TABLE `review`
+  ADD CONSTRAINT `review_tour_operator` FOREIGN KEY (`tour_operator_id`) REFERENCES `tour_operator` (`id`);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
