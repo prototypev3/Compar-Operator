@@ -41,7 +41,7 @@
                                     <!-- PREMIUM -->
                                     <?php if ($to->isIsPremium()==1){?>
                                     <a target="_blank" href="<?= $to->getLink()?>">
-                                        <img border="0" alt="badg" src="/IMG/badge.png" width="100" height="100">
+                                        <img border="0" alt="badg" src="/images/star.png" width="100" height="100">
                                     </a>
                                 <?php ; }?></span>
                             </div>
