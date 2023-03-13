@@ -25,7 +25,7 @@
             <div class="container card-list">
                 <div class="row">
                     <div class="example-2 card1">
-                        <div class="wrapper" style="background: url('<?=$destination->getImg()?>') 30% 1%; background-repeat: no-repeat; background-size: cover;">
+                        <div class="wrapper2" style="background: url('<?=$destination->getImage()?>') ">
                         
                         <!-- DIV COMMENTS + MODALE -->
                         <div class="date">
@@ -41,7 +41,7 @@
                                     <!-- PREMIUM -->
                                     <?php if ($to->isIsPremium()==1){?>
                                     <a target="_blank" href="<?= $to->getLink()?>">
-                                        <img border="0" alt="badg" src="/images/star.png" width="100" height="100">
+                                        <img   src="images/star.png" width="30px" height="30px">
                                     </a>
                                 <?php ; }?></span>
                             </div>
@@ -74,7 +74,7 @@
             <div class="modal-dialog modal-dialog-scrollable">
                 <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="staticBackdropLabel">Comments</h5>
+                    <h5 class="modal-title" id="staticBackdropLabel">Commentaire</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
@@ -83,17 +83,17 @@
                 <div class="modal-footer">
                 <img src="/IMG/note.png" style="width:9rem">
                     <!-- <h5>Write your comment...</h5> -->
-                    <form action="" method="">
+                    <form action="indexD.php" method="post">
                     <div class="labels">
-                        <label>* Name</label>
-                        <input id="input-author" type="text" name="author" placeholder="Pierre" required>
+                        <label> Nom</label>
+                        <input id="input-author" type="text" name="author" placeholder="Remi" required>
                     </div>
                     <div class="labels">
-                        <label>* Comment</label>
-                        <input id="input-message" type="textarea" name="comment" placeholder="Your comment" required>
+                        <label> Commentaire</label>
+                        <input id="input-message" type="textarea" name="commentaire" placeholder="Votre commentaire" required>
                     </div>
                     <div class="labels">
-                        <label>* Note</label>
+                        <label> Note</label>
                         <input id="input-note" type="number" name="note" min="0" max="5" required>
                     </div>
                     <button class="btn btn-dark btn-form-review" id='submit' type="button">Submit</button>

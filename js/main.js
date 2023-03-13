@@ -5,7 +5,7 @@ let submitMsg = document.querySelector('.btn-form-review');
 commentBtns.forEach((btn)=>{
     btn.addEventListener('click', function (e) {
         // console.log(e.target.getAttribute('data-idTour'))
-        let idTO = e.target.getAttribute('data-idTour')
+        let idTO = e.target.getAttribute('data-Tour-id')
 
         let formData = new FormData()
         formData.append('idTO', idTO)
