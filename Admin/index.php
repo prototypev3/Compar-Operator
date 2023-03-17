@@ -6,7 +6,7 @@
 
 
 
-    include __DIR__."/../View/Header.php";
+    // include __DIR__."/../View/Header.php";
 
 ?>
 
@@ -17,14 +17,14 @@
             <div class="panel panel-default">
                 <div class="panel-body">
                     <div class="text-center">
-                        <img src="/IMG/admin.png" border="0">
+                        <!-- <img src="/IMG/admin.png" border="0"> -->
                         <h2 class="text-center">Connect to access </h2>
 
-                        <form id="register-form" role="form" autocomplete="off" class="form" method="post" action="/Process/sessionStart.php">
+                        <form id="register-form" role="form" autocomplete="off" class="form" method="post" action="/partials/sessionStart.php">
                             <div class="form-group">
                                 <div class="input-group">
                                     <span class="input-group-addon"><i class="glyphicon glyphicon-envelope color-blue"></i></span>
-                                    <input id="forgetAnswer" name="pseudoAdmin" placeholder="Name" class="form-control"  type="text" required>
+                                    <input id="forgetAnswer" name="nom" placeholder="Name" class="form-control"  type="text" required>
                                 </div>
                             </div>
                             <div class="form-group">

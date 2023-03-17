@@ -1,12 +1,10 @@
-
-
 <?php
 require_once ('Connexion.php');
-
-if (isset($_POST['nom']) &&  isset($_POST['prenom']))
+require_once ('Autoload.php');
+if (isset($_POST['nom']) &&  isset($_POST['password']))
 {
     $admin = new Admin([
-        'prenom'=>$_POST['prenom'],
+        'password'=>$_POST['password'],
         'nom'=>$_POST['nom']
     ]);
     $adminManager = new AdminManager($pdo);
@@ -15,13 +13,14 @@ if (isset($_POST['nom']) &&  isset($_POST['prenom']))
 
 
     if ($admin->getId()) {
+        session_start();
         $_SESSION['nom']=$_POST['nom'];
-        $_SESSION['prenom']=$_POST['prenom'];
+        $_SESSION['password']=$_POST['password'];
         
         header('Location: /View/Admin.php');
     }else
     {
-        header('Location: /indexD.php');
+        header('Location: /index.php');
     }
 
 }

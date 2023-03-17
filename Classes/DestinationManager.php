@@ -53,7 +53,7 @@ class DestinationManager {
     $q = $this->db->prepare('SELECT * FROM tour_operators WHERE id=?');
       
     
-    $q->execute([$destination->getIdTourOperator()]);
+    $q->execute([$destination->getTour_operator_id()]);
     $To = $q->fetch(PDO::FETCH_ASSOC);
     $test = new TourOperator($To);
 
@@ -102,7 +102,7 @@ class DestinationManager {
   public function getListGroupByName()
   {
 
-    $q = $this->db->prepare('SELECT location, img, description, price FROM destinations  GROUP BY location, img, description ORDER BY price ASC');
+    $q = $this->db->prepare('SELECT location, image, description, price FROM destinations   ORDER BY price ASC');
 
     $destinations = [];
 
