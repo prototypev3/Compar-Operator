@@ -13,10 +13,10 @@ class AdminManager {
     public function connect(Admin $admin)
     {
    
-      $q = $this->db->prepare('SELECT * FROM admin WHERE admin = :admin AND password = :password');
+      $q = $this->db->prepare('SELECT * FROM admin WHERE nom = :nom AND motdepasse = :motdepasse');
       
-      $q->bindValue(':password', $admin->getPassword());
-      $q->bindValue(':admin', $admin->getAdmin());
+      $q->bindValue(':motdepasse', $admin->getPassword());
+      $q->bindValue(':nom', $admin->getNom());
 
       
       $q->execute();

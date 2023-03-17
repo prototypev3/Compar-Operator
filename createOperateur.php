@@ -20,5 +20,5 @@ $stmt = $pdo->prepare($sql);
 $stmt->execute([$nom, $operateur]);
 
 
-header('Location: indexO.php');
+header('Location: indexO.html');
 ?>

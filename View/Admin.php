@@ -1,18 +1,18 @@
 <?php
 include '../partials/Autoload.php';
-require_once ('partials/Connexion.php');
+require_once ('../partials/Connexion.php');
 
 /* ADMIN */
 
     session_start();
-
-    if (empty($_SESSION['admin'])&& empty($_SESSION['password'])){
-        header('Location: /index.php');
+    if (empty($_SESSION['nom'])&& empty($_SESSION['password'])){
+        // header('Location: /index.php');
+        var_dump($_SESSION);
     };
 
-    include 'Header.php';
+    // include 'Header.php';
 
-    
+     
 
     $destination = new DestinationManager($pdo);
     $allDestinations = $destination->getListGroupByName();
