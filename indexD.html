@@ -34,10 +34,10 @@
                 <div class="collapse navbar-collapse justify-content-center" id="navbarNavDropdown">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="indexD.php"> Destinations </a>
+                            <a class="nav-link" aria-current="page" href="indexD.html"> Destinations </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="indexO.php"> Opérateurs </a>
+                            <a class="nav-link" href="indexO.html"> Opérateurs </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="Administrateur.php"> Admin </a>

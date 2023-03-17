@@ -22,6 +22,6 @@ $stmt = $pdo->prepare($sql);
 // Exécution de la requête SQL
 $stmt->execute([$nom, $prenom, $motdepasse]);
 
-echo "Bonjour";
+
 header('Location: Administrateur.php');
 ?>

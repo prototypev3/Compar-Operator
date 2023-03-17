@@ -1,8 +1,8 @@
 <?php
 
-    include __DIR__.'/../Process/Autoload.php';
+    include __DIR__.'/../partials/Autoload.php';
 
-    require_once __DIR__."/../Process/Connexion.php";
+    require_once __DIR__."/../partials/Connexion.php";
 
 
 
